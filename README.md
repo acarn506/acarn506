@@ -1,6 +1,6 @@
 ## Welcome, I'm Anthony Carnero 👋
 
-Description 
+I’m a Full-Stack Engineer from the bay area who loves to build for the web and develop simple user experiences.  Always looking to dive into new technologies and never stop learning.
 
 ### About Me
 
